@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+out/
+kit.tar.gz
+*-kit/
+makefun-keypair.json
+SUBMIT-NOTES.md
